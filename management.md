@@ -1,0 +1,6 @@
+# Management Style
+| Management Style | Key Features | Pros | Cons | Examples |
+| --- | --- | --- | --- | --- |
+| Matrix Management | - Dual reporting structure<br>- Cross functional collaboration<br>- Dynamic resource allocation | - Flexibility<br>- Enchanced colloboration<br>- Resource sharing | - Role Confusion<br>- Conflict potential | - Project-based firms<br>- Consulting firm/Tech Company<br>- IBM<br>- Microsoft |
+| Functional Management | - Departmentalized Specialization<br> - Centralized Authority<br> - Efficient resource use | - Clear roles<br> - Efficiency<br> - Skill development | - Limited flexibility<br> - Slow communication | - Companies with clear divisions of specialized functions, especially in stable industries<br> - Government Agencies<br> - Military<br> - Manufacturing firms |
+| Hierarchical Management | - Clear chain of command<br> - Centralized decision making<br> - High consistency | - Clear authority<br> - Consistency<br> - Efficient supervision | - Slow adaptation<br> - Limited flexibility<br> - Reduced Innovation | - Suitable for large-scale companies or regulated industries<br> - Government Agencies<br> - Large corporations<br> - Traditional organizations |
